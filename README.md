@@ -1,4 +1,4 @@
-### Excercise 1
+### Ecercise 1
 ```shell
 cd docker_hw_one
 ```
@@ -9,7 +9,7 @@ docker build -t nginx_hw .
 docker run -d -p 8000:80 nginx_hw 
 ```
 
-### Excercise 2
+### Exercise 2
 ```shell
 cd docker_hw_two\3.2-crud\stocks_products
 ```
